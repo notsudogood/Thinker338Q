@@ -1,0 +1,36 @@
+# Hidden local configuration, credentials, and tooling state.
+.*
+!/.gitignore
+
+# Agent instructions and local assistant files (case-insensitive).
+[Aa][Gg][Ee][Nn][Tt].[Mm][Dd]
+[Aa][Gg][Ee][Nn][Tt][Ss].[Mm][Dd]
+[Cc][Ll][Aa][Uu][Dd][Ee].[Mm][Dd]
+[Gg][Ee][Mm][Ii][Nn][Ii].[Mm][Dd]
+
+# Authentication material and environment files.
+*.pem
+*.key
+*.p12
+*.pfx
+*.kdbx
+id_rsa*
+id_ed25519*
+[Aa][Uu][Tt][Hh]*
+*[Cc][Rr][Ee][Dd][Ee][Nn][Tt][Ii][Aa][Ll]*
+*[Ss][Ee][Cc][Rr][Ee][Tt]*
+*[Tt][Oo][Kk][Ee][Nn]*
+*.env
+*.env.*
+
+# Editor, OS, and temporary outputs.
+*~
+*.bak
+*.tmp
+*.log
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+__pycache__/
+tmp/
