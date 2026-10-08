@@ -19,6 +19,7 @@ The product family includes a Base edition with an SD card slot and external Wi-
 | [PCB/bottom.pdf](PCB/bottom.pdf) | Bottom-side PCB PDF |
 | [PCB/thinker338_gerber.zip](PCB/thinker338_gerber.zip) | PCB fabrication archive with Gerber and drill files |
 | [3D/ThinkerV1SSC338.stp](3D/ThinkerV1SSC338.stp) | STEP mechanical model |
+| [docs/dual-cv610-feasibility.md](docs/dual-cv610-feasibility.md) | Feasibility and architecture brief for a dual Hi3516CV610 redesign |
 
 No editable schematic or PCB CAD project, standalone bill of materials, or pick-and-place file is included in this collection.
 
